@@ -224,7 +224,9 @@ The exceptions are as follows:
   jsp_2_1.xsd
   persistence_1_0.xsd
   web-app_2_5.xsd
-  web-facesconfig_1_2.xsd
+  web-facelettaglibrary_2_0.xsd
+  web-facesconfig_2_0.xsd
+  web-partialresponse_2_0.xsd
   web-jsptaglibrary_2_1.xsd
 ===========================
 
