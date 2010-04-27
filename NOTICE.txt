@@ -3,3 +3,23 @@ Copyright 2003-2007 The Apache Software Foundation
 
 This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
+
+Apache Geronimo elects to include the following files in this distribution
+under the CDDL license:
+
+===========================
+  application-client_5.xsd
+  application_5.xsd
+  ejb-jar_3_0.xsd
+  handler-chain.xsd
+  javaee_5.xsd
+  javaee_web_services_1_2.xsd
+  javaee_web_services_client_1_2.xsd
+  jsp_2_1.xsd
+  persistence_1_0.xsd
+  web-app_2_5.xsd
+  web-facelettaglibrary_2_0.xsd
+  web-facesconfig_2_0.xsd
+  web-partialresponse_2_0.xsd
+  web-jsptaglibrary_2_1.xsd
+===========================
