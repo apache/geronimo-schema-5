@@ -33,15 +33,15 @@
     <groupId>org.apache.geronimo.schema</groupId>
     <artifactId>geronimo-schema-jee_5</artifactId>
     <name>Geronimo Schema :: JEE 5</name>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>bundle</packaging>
 
     <description>Geronimo project to build javaee schemas using xmlbeans</description>
 
     <scm>
-        <connection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/trunk</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/trunk</developerConnection>
-        <url>https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/trunk</url>
+        <connection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/tags/geronimo-schema-jee_5-1.2</connection>
+        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/tags/geronimo-schema-jee_5-1.2</developerConnection>
+        <url>https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/tags/geronimo-schema-jee_5-1.2</url>
     </scm>
 
     <dependencies>
@@ -96,7 +96,7 @@
                         <!--<configuration>-->
                             <!--<tasks>-->
                                 <!--<delete>-->
-                                    <!--<fileset dir="${project.build.outputDirectory}" includes="**/handler-chain.xsd"/>-->
+                                    <!--<fileset dir="${project.build.outputDirectory}" includes="**/handler-chain.xsd" />-->
                                 <!--</delete>-->
                             <!--</tasks>-->
                         <!--</configuration>-->
