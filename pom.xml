@@ -32,11 +32,11 @@
 
     <groupId>org.apache.geronimo.schema</groupId>
     <artifactId>geronimo-schema-jee_5</artifactId>
-    <name>Geronimo Schema :: JEE 5</name>
+    <name>Apache Geronimo Schema :: JEE 5</name>
     <version>1.3-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
-    <description>Geronimo project to build javaee schemas using xmlbeans</description>
+    <description>Geronimo project to build java ee schemas using xmlbeans</description>
 
     <scm>
         <connection>scm:svn:https://svn.apache.org/repos/asf/geronimo/components/geronimo-schema-jee_5/trunk</connection>
